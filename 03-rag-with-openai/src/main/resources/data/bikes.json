@@ -1,0 +1,79 @@
+[
+    {
+      "name": "Athena",
+      "style": "Mountain Bike",
+      "shortDescription": "Named after the Greek goddess of wisdom and war, Athena is a formidable mountain bike ready for any challenge.",
+      "longDescription": "Meet Athena, the embodiment of strength and wisdom in the realm of mountain biking. Crafted with precision and expertise, Athena conquers the toughest trails with grace and power. This divine steed features an aluminum alloy frame that balances lightweight agility with rugged durability. Its front suspension fork absorbs shocks effortlessly, ensuring a smooth ride over even the most treacherous terrain. Equipped with a 24-speed gear system, Athena empowers you to ascend steep inclines and descend with confidence. With hydraulic disc brakes providing unparalleled stopping power, you'll dominate every twist and turn of the trail.\n\n| Specifications       | Details           |\n|---------------------|-------------------|\n| Frame               | Aluminum Alloy    |\n| Fork                | Front Suspension  |\n| Wheel Size          | 27.5 inches       |\n| Gears               | 24-speed          |\n| Brakes              | Hydraulic Disc    |",
+      "priceGBP": 799.99
+    },
+    {
+      "name": "Apollo",
+      "style": "Road Bike",
+      "shortDescription": "Inspired by the Greek god of sun and light, Apollo is a sleek and aerodynamic road bike built for speed and performance.",
+      "longDescription": "Embark on a journey of speed and agility with Apollo, the radiant road bike named after the illustrious Greek god of sun and light. Crafted with the precision of a divine artisan, Apollo's carbon fiber frame embodies strength and agility, ensuring an unparalleled ride experience. Its carbon fiber fork slices through the air with effortless grace, minimizing drag and maximizing speed. With a 22-speed gear system, Apollo offers precise control over your cadence, propelling you forward with unmatched efficiency. The 700c wheels roll with celestial smoothness, while the caliper brakes provide responsive stopping power, allowing you to conquer every mile with confidence.\n\n| Specifications       | Details           |\n|---------------------|-------------------|\n| Frame               | Carbon Fiber      |\n| Fork                | Carbon Fiber      |\n| Wheel Size          | 700c              |\n| Gears               | 22-speed          |\n| Brakes              | Caliper           |",
+      "priceGBP": 1199.99
+    },
+    {
+      "name": "Hermes",
+      "style": "Hybrid Bike",
+      "shortDescription": "Named after the swift-footed messenger of the gods, Hermes is a versatile hybrid bike designed for urban exploration and leisurely rides.",
+      "longDescription": "Embrace the spirit of adventure with Hermes, the swift and versatile hybrid bike named after the legendary messenger of the gods. Crafted for urban explorers and leisure riders alike, Hermes blends style, comfort, and performance with effortless finesse. Its steel frame offers a perfect balance of strength and comfort, ensuring a smooth and enjoyable ride through city streets and scenic pathways. With a rigid fork providing precise handling, Hermes navigates tight corners and crowded streets with ease. The 700c wheels roll smoothly over any surface, while the 21-speed gear system offers a wide range of options for tackling varying terrains. Equipped with linear pull brakes, Hermes delivers reliable stopping power, allowing you to explore the world around you with confidence.\n\n| Specifications       | Details           |\n|---------------------|-------------------|\n| Frame               | Steel             |\n| Fork                | Rigid             |\n| Wheel Size          | 700c              |\n| Gears               | 21-speed          |\n| Brakes              | Linear Pull       |",
+      "priceGBP": 599.99
+    },
+    {
+      "name": "Zeus",
+      "style": "Electric Bike",
+      "shortDescription": "Named after the king of the gods, Zeus is a powerful electric bike designed for urban commuting and leisurely rides.",
+      "longDescription": "Unleash the thunderbolt with Zeus, the electrifying bike named after the mighty king of the gods. With its robust electric motor, Zeus propels you forward with unstoppable force, making every journey a thrilling adventure. Whether you're commuting to work or exploring the city streets, Zeus offers effortless speed and agility. Its sleek aluminum frame combines strength with lightweight performance, while the front suspension fork smooths out bumps and rough terrain. With a 7-speed gear system, Zeus adapts to your riding style, providing seamless transitions between pedal power and electric assistance. Equipped with disc brakes, Zeus delivers reliable stopping power, ensuring safety and control on every ride.\n\n| Specifications       | Details           |\n|---------------------|-------------------|\n| Frame               | Aluminum Alloy    |\n| Fork                | Front Suspension  |\n| Wheel Size          | 26 inches         |\n| Gears               | 7-speed           |\n| Brakes              | Disc              |",
+      "priceGBP": 1499.99
+    },
+    {
+      "name": "Poseidon",
+      "style": "Cruiser Bike",
+      "shortDescription": "Named after the god of the sea, Poseidon is a stylish cruiser bike designed for leisurely rides along the coast.",
+      "longDescription": "Dive into a world of leisure and relaxation with Poseidon, the majestic cruiser bike named after the mighty god of the sea. Inspired by the tranquil waters of the ocean, Poseidon exudes elegance and style with every pedal stroke. Its steel frame offers a smooth and comfortable ride, allowing you to glide effortlessly along the coastline. With wide handlebars and a relaxed riding position, Poseidon invites you to savor the beauty of your surroundings at a leisurely pace. The 26-inch wheels roll smoothly over any surface, while the coaster brakes provide reliable stopping power, ensuring safety and control on every seaside adventure.\n\n| Specifications       | Details           |\n|---------------------|-------------------|\n| Frame               | Steel             |\n| Fork                | Rigid             |\n| Wheel Size          | 26 inches         |\n| Gears               | Single-speed      |\n| Brakes              | Coaster           |",
+      "priceGBP": 499.99
+    },
+    {
+      "name": "Hercules",
+      "style": "Fat Bike",
+      "shortDescription": "Named after the legendary hero, Hercules is a rugged fat bike built to conquer any terrain with Herculean strength.",
+      "longDescription": "Unleash your inner hero with Hercules, the mighty fat bike named after the legendary demigod of strength. Engineered for unrivaled performance and durability, Hercules conquers the toughest trails and harshest conditions with ease. Its oversized tires provide unmatched traction and stability, allowing you to tackle snow, sand, and mud with confidence. With a sturdy steel frame and front suspension fork, Hercules absorbs shocks and vibrations, ensuring a smooth and comfortable ride on any terrain. Whether you're exploring mountain trails or blazing new paths, Hercules is your faithful companion on every epic adventure.\n\n| Specifications       | Details           |\n|---------------------|-------------------|\n| Frame               | Steel             |\n| Fork                | Front Suspension  |\n| Wheel Size          | 26 inches         |\n| Tires               | Fat               |\n| Brakes              | Mechanical Disc   |",
+      "priceGBP": 899.99
+    },
+    {
+      "name": "Persephone",
+      "style": "City Bike",
+      "shortDescription": "Named after the queen of the underworld, Persephone is an elegant city bike designed for urban commuting and everyday errands.",
+      "longDescription": "Embrace the beauty of city life with Persephone, the graceful city bike named after the enigmatic queen of the underworld. With its classic design and timeless elegance, Persephone exudes sophistication and style as you navigate the bustling streets of the city. Its lightweight aluminum frame offers nimble handling and effortless maneuverability, while the upright riding position ensures comfort on longer journeys. Equipped with a 3-speed internal gear hub, Persephone provides smooth and efficient shifting, making urban commuting a breeze. With full fenders and a rear rack, Persephone is ready to carry you and your belongings wherever your adventures take you.\n\n| Specifications       | Details           |\n|---------------------|-------------------|\n| Frame               | Aluminum Alloy    |\n| Fork                | Rigid             |\n| Wheel Size          | 700c              |\n| Gears               | 3-speed          |\n| Brakes              | Rim               |",
+      "priceGBP": 649.99
+    },
+    {
+      "name": "Dionysus",
+      "style": "Gravel Bike",
+      "shortDescription": "Named after the Greek god of wine and revelry, Dionysus is an adventurous gravel bike built for exploring unpaved roads and rugged trails.",
+      "longDescription": "Raise a toast to adventure with Dionysus, the spirited gravel bike named after the god of wine and revelry. Crafted for those who seek excitement off the beaten path, Dionysus blends performance and versatility with a touch of wild abandon. Its lightweight aluminum frame offers nimble handling and responsive control, while the carbon fiber fork absorbs shocks and vibrations for a smoother ride. With wide tires and disc brakes, Dionysus tackles gravel roads and rough trails with confidence, opening up a world of exploration and discovery. Whether you're seeking hidden vineyards or chasing sunset views, Dionysus is your faithful companion on every epic journey.\n\n| Specifications       | Details           |\n|---------------------|-------------------|\n| Frame               | Aluminum Alloy    |\n| Fork                | Carbon Fiber      |\n| Wheel Size          | 700c              |\n| Tires               | Gravel            |\n| Brakes              | Disc              |",
+      "priceGBP": 999.99
+    },
+    {
+      "name": "Artemis",
+      "style": "Touring Bike",
+      "shortDescription": "Named after the Greek goddess of the hunt, Artemis is a versatile touring bike built for long-distance adventures and epic journeys.",
+      "longDescription": "Embark on a journey of discovery with Artemis, the adventurous touring bike named after the fierce goddess of the hunt. Designed for explorers and adventurers alike, Artemis combines comfort, reliability, and versatility for epic journeys on the open road. Its steel frame offers stability and durability, ensuring a smooth and comfortable ride over long distances. With a touring-specific geometry and upright riding position, Artemis provides optimal comfort for all-day riding. Equipped with a 27-speed gear system, Artemis conquers climbs and descents with ease, while the disc brakes offer reliable stopping power in all conditions. Whether you're crossing continents or exploring remote landscapes, Artemis is your trusted companion on every unforgettable adventure.\n\n| Specifications       | Details           |\n|---------------------|-------------------|\n| Frame               | Steel             |\n| Fork                | Rigid             |\n| Wheel Size          | 700c              |\n| Gears               | 27-speed          |\n| Brakes              | Disc              |",
+      "priceGBP": 1399.99
+    },
+    {
+      "name": "Demeter",
+      "style": "Folding Bike",
+      "shortDescription": "Named after the Greek goddess of agriculture, Demeter is a compact folding bike designed for urban commuters and travelers.",
+      "longDescription": "Harvest convenience and mobility with Demeter, the versatile folding bike named after the nurturing goddess of agriculture. Designed for urban commuters and travelers, Demeter combines compactness with functionality, allowing you to navigate city streets and public transportation with ease. Its lightweight aluminum frame folds down effortlessly for compact storage and easy transport, making it ideal for multi-modal commuting. With a 7-speed gear system, Demeter adapts to varying terrain and riding conditions, ensuring a smooth and efficient ride wherever you go. Whether you're commuting to work or exploring new cities, Demeter offers convenience and versatility without compromising on performance.\n\n| Specifications       | Details           |\n|---------------------|-------------------|\n| Frame               | Aluminum Alloy    |\n| Fork                | Rigid             |\n| Wheel Size          | 20 inches         |\n| Gears               | 7-speed           |\n| Brakes              | Rim               |",
+      "priceGBP": 749.99
+    },
+    {
+      "name": "Hades",
+      "style": "BMX Bike",
+      "shortDescription": "Named after the ruler of the underworld, Hades is a high-performance BMX bike built for adrenaline-fueled tricks and stunts.",
+      "longDescription": "Descend into the realm of excitement with Hades, the adrenaline-fueled BMX bike named after the formidable ruler of the underworld. Designed for riders who crave thrills and excitement, Hades delivers high-performance features for mastering tricks and stunts. Its durable steel frame withstands the rigors of aggressive riding, while the rigid fork provides precise handling and control. With 20-inch wheels and a single-speed drivetrain, Hades offers lightning-fast acceleration and effortless maneuverability, allowing you to dominate the skatepark or the streets with ease. Equipped with powerful rim brakes, Hades delivers reliable stopping power, ensuring safety and control on every jump and landing.\n\n| Specifications       | Details           |\n|---------------------|-------------------|\n| Frame               | Steel             |\n| Fork                | Rigid             |\n| Wheel Size          | 20 inches         |\n| Gears               | Single-speed      |\n| Brakes              | Rim               |",
+      "priceGBP": 399.99
+    }
+  ]

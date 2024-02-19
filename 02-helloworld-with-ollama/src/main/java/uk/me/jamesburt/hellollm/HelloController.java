@@ -8,15 +8,14 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class HelloController {
 
-    private final HelloService ragService;
+    private final HelloService helloService;
 
     @Autowired
-    public HelloController(HelloService ragService) {
-        this.ragService = ragService;
+    public HelloController(HelloService helloService) {
+        this.helloService = helloService;
     }
-
     @GetMapping("/hello")
     public String generate(@RequestParam(value = "message") String message) {
-        return ragService.sendMessage(message).toString();
+        return helloService.sendMessage(message).toString();
     }
 }
